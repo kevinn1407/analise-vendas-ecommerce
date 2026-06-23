@@ -1,0 +1,195 @@
+﻿produto_id,titulo,categoria,marca,preco,faixa_preco,avaliacao,estoque,status_estoque
+1,Essence Mascara Lash Princess,beauty,Essence,9.99,Ate R$10,2.56,99,In Stock
+2,Eyeshadow Palette with Mirror,beauty,Glamour Beauty,19.99,R$10-50,2.86,34,In Stock
+3,Powder Canister,beauty,Velvet Touch,14.99,R$10-50,4.64,89,In Stock
+4,Red Lipstick,beauty,Chic Cosmetics,12.99,R$10-50,4.36,91,In Stock
+5,Red Nail Polish,beauty,Nail Couture,8.99,Ate R$10,4.32,79,In Stock
+6,Calvin Klein CK One,fragrances,Calvin Klein,49.99,R$10-50,4.37,29,In Stock
+7,Chanel Coco Noir Eau De,fragrances,Chanel,129.99,R$50-200,4.26,58,In Stock
+8,Dior J'adore,fragrances,Dior,89.99,R$50-200,3.8,98,In Stock
+9,Dolce Shine Eau de,fragrances,Dolce & Gabbana,69.99,R$50-200,3.96,4,Low Stock
+10,Gucci Bloom Eau de,fragrances,Gucci,79.99,R$50-200,2.74,91,In Stock
+11,Annibale Colombo Bed,furniture,Annibale Colombo,1899.99,Acima de R$1000,4.77,88,In Stock
+12,Annibale Colombo Sofa,furniture,Annibale Colombo,2499.99,Acima de R$1000,3.92,60,In Stock
+13,Bedside Table African Cherry,furniture,Furniture Co.,299.99,R$200-1000,2.87,64,In Stock
+14,Knoll Saarinen Executive Conference Chair,furniture,Knoll,499.99,R$200-1000,4.88,26,In Stock
+15,Wooden Bathroom Sink With Mirror,furniture,Bath Trends,799.99,R$200-1000,3.59,7,Low Stock
+16,Apple,groceries,Sem marca,1.99,Ate R$10,4.19,8,In Stock
+17,Beef Steak,groceries,Sem marca,12.99,R$10-50,4.47,86,In Stock
+18,Cat Food,groceries,Sem marca,8.99,Ate R$10,3.13,46,In Stock
+19,Chicken Meat,groceries,Sem marca,9.99,Ate R$10,3.19,97,In Stock
+20,Cooking Oil,groceries,Sem marca,4.99,Ate R$10,4.8,10,In Stock
+21,Cucumber,groceries,Sem marca,1.49,Ate R$10,4.07,84,In Stock
+22,Dog Food,groceries,Sem marca,10.99,R$10-50,4.55,71,In Stock
+23,Eggs,groceries,Sem marca,2.99,Ate R$10,2.53,9,In Stock
+24,Fish Steak,groceries,Sem marca,14.99,R$10-50,3.78,74,In Stock
+25,Green Bell Pepper,groceries,Sem marca,1.29,Ate R$10,3.25,33,In Stock
+26,Green Chili Pepper,groceries,Sem marca,0.99,Ate R$10,3.66,3,Low Stock
+27,Honey Jar,groceries,Sem marca,6.99,Ate R$10,3.97,34,In Stock
+28,Ice Cream,groceries,Sem marca,5.49,Ate R$10,3.39,27,In Stock
+29,Juice,groceries,Sem marca,3.99,Ate R$10,3.94,50,In Stock
+30,Kiwi,groceries,Sem marca,2.49,Ate R$10,4.93,99,In Stock
+31,Lemon,groceries,Sem marca,0.79,Ate R$10,3.53,31,In Stock
+32,Milk,groceries,Sem marca,3.49,Ate R$10,2.61,27,In Stock
+33,Mulberry,groceries,Sem marca,4.99,Ate R$10,4.95,99,In Stock
+34,Nescafe Coffee,groceries,Sem marca,7.99,Ate R$10,4.82,57,In Stock
+35,Potatoes,groceries,Sem marca,2.29,Ate R$10,4.81,13,In Stock
+36,Protein Powder,groceries,Sem marca,19.99,R$10-50,4.18,80,In Stock
+37,Red Onions,groceries,Sem marca,1.99,Ate R$10,4.2,82,In Stock
+38,Rice,groceries,Sem marca,5.99,Ate R$10,3.18,59,In Stock
+39,Soft Drinks,groceries,Sem marca,1.99,Ate R$10,4.75,53,In Stock
+40,Strawberry,groceries,Sem marca,3.99,Ate R$10,3.08,46,In Stock
+41,Tissue Paper Box,groceries,Sem marca,2.49,Ate R$10,2.69,86,In Stock
+42,Water,groceries,Sem marca,0.99,Ate R$10,4.96,53,In Stock
+43,Decoration Swing,home-decoration,Sem marca,59.99,R$50-200,3.16,47,In Stock
+44,Family Tree Photo Frame,home-decoration,Sem marca,29.99,R$10-50,4.53,77,In Stock
+45,House Showpiece Plant,home-decoration,Sem marca,39.99,R$10-50,4.67,28,In Stock
+46,Plant Pot,home-decoration,Sem marca,14.99,R$10-50,3.01,59,In Stock
+47,Table Lamp,home-decoration,Sem marca,49.99,R$10-50,3.55,9,In Stock
+48,Bamboo Spatula,kitchen-accessories,Sem marca,7.99,Ate R$10,3.27,37,In Stock
+49,Black Aluminium Cup,kitchen-accessories,Sem marca,5.99,Ate R$10,4.46,75,In Stock
+50,Black Whisk,kitchen-accessories,Sem marca,9.99,Ate R$10,3.9,73,In Stock
+51,Boxed Blender,kitchen-accessories,Sem marca,39.99,R$10-50,4.56,9,In Stock
+52,Carbon Steel Wok,kitchen-accessories,Sem marca,29.99,R$10-50,4.05,40,In Stock
+53,Chopping Board,kitchen-accessories,Sem marca,12.99,R$10-50,3.7,14,In Stock
+54,Citrus Squeezer Yellow,kitchen-accessories,Sem marca,8.99,Ate R$10,4.63,22,In Stock
+55,Egg Slicer,kitchen-accessories,Sem marca,6.99,Ate R$10,3.09,40,In Stock
+56,Electric Stove,kitchen-accessories,Sem marca,49.99,R$10-50,4.11,21,In Stock
+57,Fine Mesh Strainer,kitchen-accessories,Sem marca,9.99,Ate R$10,3.04,85,In Stock
+58,Fork,kitchen-accessories,Sem marca,3.99,Ate R$10,3.11,7,In Stock
+59,Glass,kitchen-accessories,Sem marca,4.99,Ate R$10,4.02,46,In Stock
+60,Grater Black,kitchen-accessories,Sem marca,10.99,R$10-50,3.21,84,In Stock
+61,Hand Blender,kitchen-accessories,Sem marca,34.99,R$10-50,3.86,84,In Stock
+62,Ice Cube Tray,kitchen-accessories,Sem marca,5.99,Ate R$10,4.71,13,In Stock
+63,Kitchen Sieve,kitchen-accessories,Sem marca,7.99,Ate R$10,3.09,68,In Stock
+64,Knife,kitchen-accessories,Sem marca,14.99,R$10-50,3.26,7,Low Stock
+65,Lunch Box,kitchen-accessories,Sem marca,12.99,R$10-50,4.93,94,In Stock
+66,Microwave Oven,kitchen-accessories,Sem marca,89.99,R$50-200,4.82,59,In Stock
+67,Mug Tree Stand,kitchen-accessories,Sem marca,15.99,R$10-50,2.64,88,In Stock
+68,Pan,kitchen-accessories,Sem marca,24.99,R$10-50,2.79,90,In Stock
+69,Plate,kitchen-accessories,Sem marca,3.99,Ate R$10,3.65,66,In Stock
+70,Red Tongs,kitchen-accessories,Sem marca,6.99,Ate R$10,4.42,82,In Stock
+71,Silver Pot With Glass Cap,kitchen-accessories,Sem marca,39.99,R$10-50,3.22,40,In Stock
+72,Slotted Turner,kitchen-accessories,Sem marca,8.99,Ate R$10,3.4,88,In Stock
+73,Spice Rack,kitchen-accessories,Sem marca,19.99,R$10-50,4.87,79,In Stock
+74,Spoon,kitchen-accessories,Sem marca,4.99,Ate R$10,4.03,59,In Stock
+75,Tray,kitchen-accessories,Sem marca,16.99,R$10-50,4.62,71,In Stock
+76,Wooden Rolling Pin,kitchen-accessories,Sem marca,11.99,R$10-50,2.92,80,In Stock
+77,Yellow Peeler,kitchen-accessories,Sem marca,5.99,Ate R$10,4.24,35,In Stock
+78,Apple MacBook Pro 14 Inch Space Grey,laptops,Apple,1999.99,Acima de R$1000,3.65,24,In Stock
+79,Asus Zenbook Pro Dual Screen Laptop,laptops,Asus,1799.99,Acima de R$1000,3.95,45,In Stock
+80,Huawei Matebook X Pro,laptops,Huawei,1399.99,Acima de R$1000,4.98,75,In Stock
+81,Lenovo Yoga 920,laptops,Lenovo,1099.99,Acima de R$1000,2.86,40,In Stock
+82,New DELL XPS 13 9300 Laptop,laptops,Dell,1499.99,Acima de R$1000,2.67,74,In Stock
+83,Blue & Black Check Shirt,mens-shirts,Fashion Trends,29.99,R$10-50,3.64,38,In Stock
+84,Gigabyte Aorus Men Tshirt,mens-shirts,Gigabyte,24.99,R$10-50,3.18,90,In Stock
+85,Man Plaid Shirt,mens-shirts,Classic Wear,34.99,R$10-50,3.46,82,In Stock
+86,Man Short Sleeve Shirt,mens-shirts,Casual Comfort,19.99,R$10-50,2.9,2,Low Stock
+87,Men Check Shirt,mens-shirts,Urban Chic,27.99,R$10-50,2.72,95,In Stock
+88,Nike Air Jordan 1 Red And Black,mens-shoes,Nike,149.99,R$50-200,4.77,7,In Stock
+89,Nike Baseball Cleats,mens-shoes,Nike,79.99,R$50-200,3.88,12,In Stock
+90,Puma Future Rider Trainers,mens-shoes,Puma,89.99,R$50-200,4.9,90,In Stock
+91,Sports Sneakers Off White & Red,mens-shoes,Off White,119.99,R$50-200,4.77,17,In Stock
+92,Sports Sneakers Off White Red,mens-shoes,Off White,109.99,R$50-200,4.69,62,In Stock
+93,Brown Leather Belt Watch,mens-watches,Fashion Timepieces,89.99,R$50-200,4.19,32,In Stock
+94,Longines Master Collection,mens-watches,Longines,1499.99,Acima de R$1000,3.87,100,In Stock
+95,Rolex Cellini Date Black Dial,mens-watches,Rolex,8999.99,Acima de R$1000,4.97,40,In Stock
+96,Rolex Cellini Moonphase,mens-watches,Rolex,12999.99,Acima de R$1000,2.58,36,In Stock
+97,Rolex Datejust,mens-watches,Rolex,10999.99,Acima de R$1000,3.66,86,In Stock
+98,Rolex Submariner Watch,mens-watches,Rolex,13999.99,Acima de R$1000,2.69,55,In Stock
+99,Amazon Echo Plus,mobile-accessories,Amazon,99.99,R$50-200,4.99,61,In Stock
+100,Apple Airpods,mobile-accessories,Apple,129.99,R$50-200,4.15,67,In Stock
+101,Apple AirPods Max Silver,mobile-accessories,Apple,549.99,R$200-1000,3.47,59,In Stock
+102,Apple Airpower Wireless Charger,mobile-accessories,Apple,79.99,R$50-200,3.68,1,Low Stock
+103,Apple HomePod Mini Cosmic Grey,mobile-accessories,Apple,99.99,R$50-200,4.62,27,In Stock
+104,Apple iPhone Charger,mobile-accessories,Apple,19.99,R$10-50,4.15,31,In Stock
+105,Apple MagSafe Battery Pack,mobile-accessories,Apple,99.99,R$50-200,3.62,1,Low Stock
+106,Apple Watch Series 4 Gold,mobile-accessories,Apple,349.99,R$200-1000,2.74,33,In Stock
+107,Beats Flex Wireless Earphones,mobile-accessories,Beats,49.99,R$10-50,4.24,50,In Stock
+108,iPhone 12 Silicone Case with MagSafe Plum,mobile-accessories,Apple,29.99,R$10-50,3.62,69,In Stock
+109,Monopod,mobile-accessories,TechGear,19.99,R$10-50,4.43,48,In Stock
+110,Selfie Lamp with iPhone,mobile-accessories,GadgetMaster,14.99,R$10-50,3.55,58,In Stock
+111,Selfie Stick Monopod,mobile-accessories,SnapTech,12.99,R$10-50,3.88,11,In Stock
+112,TV Studio Camera Pedestal,mobile-accessories,ProVision,499.99,R$200-1000,2.78,15,In Stock
+113,Generic Motorcycle,motorcycle,Generic Motors,3999.99,Acima de R$1000,4.91,34,In Stock
+114,Kawasaki Z800,motorcycle,Kawasaki,8999.99,Acima de R$1000,3.98,52,In Stock
+115,MotoGP CI.H1,motorcycle,MotoGP,14999.99,Acima de R$1000,2.97,10,In Stock
+116,Scooter Motorcycle,motorcycle,ScootMaster,2999.99,Acima de R$1000,2.53,84,In Stock
+117,Sportbike Motorcycle,motorcycle,SpeedMaster,7499.99,Acima de R$1000,3.94,0,Out of Stock
+118,Attitude Super Leaves Hand Soap,skin-care,Attitude,8.99,Ate R$10,3.19,94,In Stock
+119,Olay Ultra Moisture Shea Butter Body Wash,skin-care,Olay,12.99,R$10-50,4.51,34,In Stock
+120,Vaseline Men Body and Face Lotion,skin-care,Vaseline,9.99,Ate R$10,3.16,95,In Stock
+121,iPhone 5s,smartphones,Apple,199.99,R$50-200,2.83,25,In Stock
+122,iPhone 6,smartphones,Apple,299.99,R$200-1000,3.41,60,In Stock
+123,iPhone 13 Pro,smartphones,Apple,1099.99,Acima de R$1000,4.12,56,In Stock
+124,iPhone X,smartphones,Apple,899.99,R$200-1000,2.51,37,In Stock
+125,Oppo A57,smartphones,Oppo,249.99,R$200-1000,3.94,19,In Stock
+126,Oppo F19 Pro Plus,smartphones,Oppo,399.99,R$200-1000,3.51,78,In Stock
+127,Oppo K1,smartphones,Oppo,299.99,R$200-1000,4.25,55,In Stock
+128,Realme C35,smartphones,Realme,149.99,R$50-200,4.2,48,In Stock
+129,Realme X,smartphones,Realme,299.99,R$200-1000,3.7,12,In Stock
+130,Realme XT,smartphones,Realme,349.99,R$200-1000,4.58,80,In Stock
+131,Samsung Galaxy S7,smartphones,Samsung,299.99,R$200-1000,3.3,67,In Stock
+132,Samsung Galaxy S8,smartphones,Samsung,499.99,R$200-1000,4.4,0,Out of Stock
+133,Samsung Galaxy S10,smartphones,Samsung,699.99,R$200-1000,3.06,19,In Stock
+134,Vivo S1,smartphones,Vivo,249.99,R$200-1000,3.5,50,In Stock
+135,Vivo V9,smartphones,Vivo,299.99,R$200-1000,3.6,82,In Stock
+136,Vivo X21,smartphones,Vivo,499.99,R$200-1000,4.26,7,In Stock
+137,American Football,sports-accessories,Sem marca,19.99,R$10-50,4.91,53,In Stock
+138,Baseball Ball,sports-accessories,Sem marca,8.99,Ate R$10,2.57,100,In Stock
+139,Baseball Glove,sports-accessories,Sem marca,24.99,R$10-50,3.96,22,In Stock
+140,Basketball,sports-accessories,Sem marca,14.99,R$10-50,4.66,75,In Stock
+141,Basketball Rim,sports-accessories,Sem marca,39.99,R$10-50,4.6,43,In Stock
+142,Cricket Ball,sports-accessories,Sem marca,12.99,R$10-50,3.53,30,In Stock
+143,Cricket Bat,sports-accessories,Sem marca,29.99,R$10-50,3.17,98,In Stock
+144,Cricket Helmet,sports-accessories,Sem marca,44.99,R$10-50,4.69,10,In Stock
+145,Cricket Wicket,sports-accessories,Sem marca,29.99,R$10-50,4.73,25,In Stock
+146,Feather Shuttlecock,sports-accessories,Sem marca,5.99,Ate R$10,2.85,95,In Stock
+147,Football,sports-accessories,Sem marca,17.99,R$10-50,3.28,96,In Stock
+148,Golf Ball,sports-accessories,Sem marca,9.99,Ate R$10,4.3,84,In Stock
+149,Iron Golf,sports-accessories,Sem marca,49.99,R$10-50,4.41,90,In Stock
+150,Metal Baseball Bat,sports-accessories,Sem marca,29.99,R$10-50,4.66,16,In Stock
+151,Tennis Ball,sports-accessories,Sem marca,6.99,Ate R$10,4.06,28,In Stock
+152,Tennis Racket,sports-accessories,Sem marca,49.99,R$10-50,4.03,6,Low Stock
+153,Volleyball,sports-accessories,Sem marca,11.99,R$10-50,3.84,0,Out of Stock
+154,Black Sun Glasses,sunglasses,Fashion Shades,29.99,R$10-50,4.41,60,In Stock
+155,Classic Sun Glasses,sunglasses,Fashion Shades,24.99,R$10-50,3.86,1,Low Stock
+156,Green and Black Glasses,sunglasses,Fashion Shades,34.99,R$10-50,4.55,24,In Stock
+157,Party Glasses,sunglasses,Fashion Fun,19.99,R$10-50,2.79,86,In Stock
+158,Sunglasses,sunglasses,Fashion Shades,22.99,R$10-50,3.02,27,In Stock
+159,iPad Mini 2021 Starlight,tablets,Apple,499.99,R$200-1000,3.18,47,In Stock
+160,Samsung Galaxy Tab S8 Plus Grey,tablets,Samsung,599.99,R$200-1000,4.68,62,In Stock
+161,Samsung Galaxy Tab White,tablets,Samsung,349.99,R$200-1000,3.72,92,In Stock
+162,Blue Frock,tops,Sem marca,29.99,R$10-50,4.17,52,In Stock
+163,Girl Summer Dress,tops,Sem marca,19.99,R$10-50,4.77,43,In Stock
+164,Gray Dress,tops,Sem marca,34.99,R$10-50,2.72,55,In Stock
+165,Short Frock,tops,Sem marca,24.99,R$10-50,3.23,22,In Stock
+166,Tartan Dress,tops,Sem marca,39.99,R$10-50,4.05,73,In Stock
+167,300 Touring,vehicle,Chrysler,28999.99,Acima de R$1000,4.05,54,In Stock
+168,Charger SXT RWD,vehicle,Dodge,32999.99,Acima de R$1000,2.58,57,In Stock
+169,Dodge Hornet GT Plus,vehicle,Dodge,24999.99,Acima de R$1000,2.65,82,In Stock
+170,Durango SXT RWD,vehicle,Dodge,36999.99,Acima de R$1000,4.07,95,In Stock
+171,Pacifica Touring,vehicle,Chrysler,31999.99,Acima de R$1000,3.62,53,In Stock
+172,Blue Women's Handbag,womens-bags,Fashionista,49.99,R$10-50,2.92,76,In Stock
+173,Heshe Women's Leather Bag,womens-bags,Heshe,129.99,R$50-200,4.92,99,In Stock
+174,Prada Women Bag,womens-bags,Prada,599.99,R$200-1000,2.71,75,In Stock
+175,White Faux Leather Backpack,womens-bags,Urban Chic,39.99,R$10-50,3.36,39,In Stock
+176,Women Handbag Black,womens-bags,Elegance Collection,59.99,R$50-200,2.89,11,In Stock
+177,Black Women's Gown,womens-dresses,Sem marca,129.99,R$50-200,3.64,25,In Stock
+178,Corset Leather With Skirt,womens-dresses,Sem marca,89.99,R$50-200,3.05,30,In Stock
+179,Corset With Black Skirt,womens-dresses,Sem marca,79.99,R$50-200,4.52,33,In Stock
+180,Dress Pea,womens-dresses,Sem marca,49.99,R$10-50,4.88,6,Low Stock
+181,Marni Red & Black Suit,womens-dresses,Sem marca,179.99,R$50-200,4.48,62,In Stock
+182,Green Crystal Earring,womens-jewellery,Sem marca,29.99,R$10-50,3.96,54,In Stock
+183,Green Oval Earring,womens-jewellery,Sem marca,24.99,R$10-50,3.57,73,In Stock
+184,Tropical Earring,womens-jewellery,Sem marca,19.99,R$10-50,4.4,1,Low Stock
+185,Black & Brown Slipper,womens-shoes,Comfort Trends,19.99,R$10-50,2.53,3,Low Stock
+186,Calvin Klein Heel Shoes,womens-shoes,Calvin Klein,79.99,R$50-200,4.92,93,In Stock
+187,Golden Shoes Woman,womens-shoes,Fashion Diva,49.99,R$10-50,3.26,88,In Stock
+188,Pampi Shoes,womens-shoes,Pampi,29.99,R$10-50,3.05,49,In Stock
+189,Red Shoes,womens-shoes,Fashion Express,34.99,R$10-50,3.25,7,Low Stock
+190,IWC Ingenieur Automatic Steel,womens-watches,IWC,4999.99,Acima de R$1000,2.93,90,In Stock
+191,Rolex Cellini Moonphase,womens-watches,Rolex,15999.99,Acima de R$1000,3.83,52,In Stock
+192,Rolex Datejust Women,womens-watches,Rolex,10999.99,Acima de R$1000,2.86,4,Low Stock
+193,Watch Gold for Women,womens-watches,Fashion Gold,799.99,R$200-1000,4.24,0,Out of Stock
+194,Women's Wrist Watch,womens-watches,Fashion Co.,129.99,R$50-200,3.52,12,In Stock
